@@ -1,0 +1,100 @@
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #f0f9ff; /* Old browsers */
+  background: -moz-linear-gradient(top,  #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0f9ff), color-stop(47%,#cbebff), color-stop(100%,#a1dbff)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* IE10+ */
+  background: linear-gradient(top,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
+}
+
+.parallax-x img, .parallax-y img {
+  position: absolute;
+}
+
+#grass_0 {
+  left: -10px;
+  bottom: 0px;
+  width: 110%;
+}
+
+#grass_1 {
+  left: -10px;
+  bottom: 0px;
+  width: 110%;
+}
+
+#cloud_1 {
+  top: -2%;
+  left: 4%;
+}
+
+#cloud_2 {
+  top: 4%;
+  left: 30%;
+}
+
+#cloud_3 {
+  top: 3%;
+  left: 60%;
+}
+
+#cloud_4 {
+  top: 1%;
+  left: 87%;
+}
+
+#flower_1a {
+  left: 65%;
+  top: 60%;
+}
+
+#flower_1b {
+  left: 75%;
+  top: 56%;
+}
+
+#flower_1c {
+  left: 10%;
+  top: 54%;
+}
+
+#flower_2 {
+  left: 30%;
+  top: 57%;
+}
+
+#flower_3a {
+  left: 50%;
+  top: 45%;
+}
+
+#flower_3b {
+  left: 25%;
+  top: 65%;
+}
+
+#flower_4a {
+  left: 40%;
+  top: 62%;
+}
+
+#flower_4b {
+  left: 85%;
+  top: 64%;
+}
+
+#flower_5 {
+  left: 56%;
+  top: 75%;
+}
+
+#hummingbird {
+  left: 5%;
+  top: 5%;
+}
+
